@@ -11,13 +11,14 @@ v.labreche@gmail.com
 
 Inspiration originale: S. Kruschitz
 Merci aux testeurs: L.P. Moreau, J. Marchand, Y.Bois, J.Lafontaine, A.Lafontaine
+Merci à la 2e génération: Ém. Labrèche, Él. Labrèche et A. Labrèche.
 
 
 Nombre de joueurs:
-3 joueurs (recommandé) ou plus
+Minimum 2, 3 joueurs (recommandé) ou plus
 
 Préparation:
-1.Nécessite deux (2) jeux de 52 cartes.
+1.Nécessite un (1) jeux de 52 cartes (jusqu'à 3 joueurs), ajouter des jeux supplémentaires au besoin
 
 2.On prépare pour chaque joueur, un paquet de 16 cartes (4 fleurs de 4 cartes) qui formera le potager initial du joueur et une carte qui constituera la main de départ.  On dispose le tout en trois paquets au centre de la table.  Optionel: varier le nombre de cartes de départ pour plus de plaisir (fleurs plus grosses/plus petites/asymétrie/varier nombre de cartes en main au départ).
 
@@ -32,7 +33,7 @@ Début du jeu:
 
 2.Une fois le premier joueur déterminé, tous les joueurs doivent répéter en coeur: "C'est la bataille des fleurs".  Le premier joueur prend une des piles (potager et main de départ) et les deux autres joueurs font de même.
 
-3.Chaque joueur prépare ses fleurs de la manière dont il le désire, chaque fleur doit avoir le même nombre de pétale, l'ordre de placement n'a pas d'importance.  Pour créer une fleur, placer les pétales un au-dessus de l'autre (face cachée) en une forme circulaire.  Ces cercles constituent les fleurs de chaque joueur. Par défaut, chaque joueur aura 4 fleurs de 4 pétales, les variantes à plus ou moins de joueurs pourrainent avoir soit 3 fleurs de 3 pétales, 3 fleurs de 4 pétales, 4 fleurs de 3 pétales, etc.
+3.Chaque joueur prépare ses fleurs de la manière dont il le désire, chaque fleur doit avoir le même nombre de pétale (optionnel), l'ordre de placement n'a pas d'importance.  Pour créer une fleur, placer les pétales un au-dessus de l'autre (face cachée) en une forme circulaire.  Ces cercles constituent les fleurs de chaque joueur. Par défaut, chaque joueur aura 4 fleurs de 4 pétales, les variantes à plus ou moins de joueurs pourrainent avoir soit 3 fleurs de 3 pétales, 3 fleurs de 4 pétales, 4 fleurs de 3 pétales, etc.
 
 4.Le potager de chaque joueur est divisé en deux zones distinctes: Les fleurs régulières à l'avant et les POWER FLOWER à l'arrière (expliqué plus loin).
 
@@ -68,14 +69,14 @@ Trèfle: Espion (droit d'espionner soit une fleur entière (sa propre fleur ou c
 
 Carreau: POWER FLOWER (Transforme une fleur en super-fleur, on déplace la fleur dans la zone POWER FLOWER, tous les pétales sont retournés, puis, à l'attaque comme à la défense, on choisit quel est le pétale combattant au moment de la résolution.)  On met la carte au GraveRyard une fois utilisée.
 
-Pique: Poison (détruit un pétale instantanément, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix.)  On met la carte au GraveRyard une fois utilisée.
+Pique: Poison (détruit instantanément un pétale de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix.)  On met la carte au GraveRyard une fois utilisée.
 
 
 Ordre du tour:
 1.Décider si on pioche ou non.  Si le joueur pioche, son tour se termine immédiatement
-2.Jouer des cartes de sa main sans réplique adverse (optionel)
+2.Jouer des cartes de sa main sans réplique adverse (optionnel)
 3.Déclarer des attaques
-    3.1 jouer des cartes de sa main avec réplique possible de l'adversaire (optionel)
+    3.1 jouer des cartes de sa main avec réplique possible de l'adversaire (optionnel)
     3.2 Résoudre l'attaque
 4.Répéter 2 et 3 jusqu'à ce qu'une attaque soit réussie ou que toutes les fleurs aient combattu une fois.
 5.Pioche de victoire (dans le cas d'une attaque réussie)
@@ -95,7 +96,7 @@ Lors d'une attaque, le joueur choisit quelle fleur attaque et quelle fleur ennem
 Résolution de l'attaque:
 Attaque réussie: Une attaque est réussie lorsque l'attaquant a un pétale plus élevé que le joueur en défense (voir spécifités pour plus de de détails).  Les deux pétales ayant combattu sont retirés de la surface de jeu et mises dans le GraveRyard.  Après une attaque réussie, le joueur vole la fleur attaquée et pioche ensuite une carte qu'il rajoutera à sa main.  Le tour est terminé, on passe au prochain joueur.
 
-Attaque échouée: Les fleurs restent indemnes, mais la fleur ayant attaqué ne peut plus attaquer pour le restant du tour (voir spécifités pour plus de de détails). Le joueur peut tenter de nouvelles attaques avec ses autres fleurs.  Dans le cas où un joueur a échoué avec toutes ses fleurs, il doit passer son tour et il ne pioche aucune carte.
+Attaque échouée: Les fleurs restent indemnes, mais la fleur ayant attaqué ne peut plus attaquer pour le restant du tour (voir spécifités pour plus de de détails). Le joueur peut tenter de nouvelles attaques avec ses autres fleurs.  Dans le cas où un joueur a échoué avec toutes ses fleurs, il doit terminer son tour et il ne pioche aucune carte.
 
 
 Attaques - spécificités:
@@ -113,7 +114,7 @@ Attaques - spécificités:
 
 Actions spéciales:
 -Pioche: Comme unique action du tour, le joueur peut décider de passer son tour pour piocher une carte.  Celui-ci ne peut effectuer aucune attaque ce tour-ci.  Cette action ne peut pas être choisie après avoir échoué une attaque.  Cette action n'est pas disponible au premier tour.  La pioche est limitée à deux tours consécutifs, au troisième, il est impératif de déclarer une attaque.
--Création d'une fleur: Un joueur peut créer une nouvelle fleur avec un minimum de 3 cartes minimum, d'un mélange de trèfle ou de carreau.  Cette fleur sera régulière et totalement révélée.  L'ordre des pétales sera choisi par le joueur qui crée la fleur.  Cette action peut être jouée en réponse à une attaque d'un adversaire.
+-Création d'une fleur: Un joueur peut créer une nouvelle fleur avec un minimum de 3 cartes.  Cette fleur sera régulière et totalement révélée.  L'ordre des pétales sera choisi par le joueur qui crée la fleur.  Cette action peut être jouée en réponse à une attaque d'un adversaire.
 -Suicide tactique: Un joueur peut décider de se suicider en utilisant sa dernière fleur à un pétale pour attaquer une fleur à un pétale ennemi.  Advenant d'une attaque réussie, le joueur se retrouve avec 0 cartes dans son potager, mais peut piocher une carte pour jouer sa dernière volonté (aucune réplique possible sur la dernière volonté).  S'il réussit à anéantir son dernier adversaire sur la dernière volonté le joueur gagne la partie.
 
 
@@ -125,6 +126,8 @@ En cas d'égalité, on procède à un "pareil, pas-pareil" comme pour décider d
 
 
 Historique:
+V6: Saint-Donat, Mai 2025
+- Petites modifications 
 v5: SADM QC, Avril 2022
 - Migration vers GitHub.
 v4: Golden BC, Mars 2013
@@ -138,26 +141,4 @@ v2: plusieurs améliorations suite aux Chics-Chocs 2011-2012
 -beta testing par LP et Julien
 -ajout du graphique de la zone de jeu.
 v1: version initiale des règles
-
-TODO list:
-Trefle seulement nouvelle fleur.
-Trefle reg. = 2 choix
-Carreau : 2 carreaux = counter ou annule PF temporairement
-Coeur = nimporte ou dans fleur.
-
-Piquer tous les pétales d'une fleur = redirection et pas victoire.
-Pique redefini+3
-
-Le tout pour le tout (def ou attaque)
-
-Carreau selon.nombre de petales/valeur de la carte
-
-Etablir 3 nouveaux principes:
-IPP indice puissance potager et bonus attaque plus puissant, bonus - contre plus faible (en terme de recompense de bataille)
-Experience (fleurs et actions spéciales)
-
-actions de base dans les 4 couleurs (1 par tour)
-Redéfinir la pige max 1 tour? =0D=0A
-
-pouvoirs spéciaux différent à chaque joueur
 
