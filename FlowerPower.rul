@@ -71,6 +71,9 @@ Carreau: POWER FLOWER (Transforme une fleur en super-fleur, on déplace la fleur
 
 Pique: Poison (détruit instantanément un pétale de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix.)  On met la carte au GraveRyard une fois utilisée.
 
+Joker Rouge: N'importe quelle carte rouge.
+Joker Noir: N'importe quelle carte noire.
+
 
 Ordre du tour:
 1.Décider si on pioche ou non.  Si le joueur pioche, son tour se termine immédiatement
@@ -108,7 +111,7 @@ Attaques - spécificités:
 
 -Dans le cas d'une POWER FLOWER, c'est toujours au moment de la résolution que le joueur choisit quel pétale attaque ou défend.  (ex.: après avoir utilisé les cartes de la main, une POWER FLOWER [A,Q,5,4] attaque une fleur régulière [4,caché,caché,caché], le joueur pourrait utiliser son 5 pour vaincre directement l'adversaire ou utiliser le 4 contre le 4 et briser l'égalité.  Dans ce cas, il aurait le droit d'avoir un 4 à l'As.
 
--La puissance des cartes est la suivante, dans l'ordre décroissant: A,K,Q,J,10,9,8,7,6,5,4,3,2
+-La puissance des cartes est la suivante, dans l'ordre décroissant: Joker,A,K,Q,J,10,9,8,7,6,5,4,3,2
 
 
 
