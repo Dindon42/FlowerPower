@@ -117,7 +117,7 @@ Attaques - spécificités:
 
 Actions spéciales:
 -Pioche: Comme unique action du tour, le joueur peut décider de passer son tour pour piocher une carte.  Celui-ci ne peut effectuer aucune attaque ce tour-ci.  Cette action ne peut pas être choisie après avoir échoué une attaque.  Cette action n'est pas disponible au premier tour.  La pioche est limitée à deux tours consécutifs, au troisième, il est impératif de déclarer une attaque.
--Création d'une fleur: Un joueur peut créer une nouvelle fleur avec un minimum de 3 cartes.  Cette fleur sera régulière et totalement révélée.  L'ordre des pétales sera choisi par le joueur qui crée la fleur.  Cette action peut être jouée en réponse à une attaque d'un adversaire.
+-Création d'une fleur: Un joueur peut créer une nouvelle fleur avec un minimum de 3 cartes.  Cette fleur sera régulière.  L'ordre des pétales sera choisi par le joueur qui crée la fleur.  Cette action peut être jouée en réponse à une attaque d'un adversaire.
 -Suicide tactique: Un joueur peut décider de se suicider en utilisant sa dernière fleur à un pétale pour attaquer une fleur à un pétale ennemi.  Advenant d'une attaque réussie, le joueur se retrouve avec 0 cartes dans son potager, mais peut piocher une carte pour jouer sa dernière volonté (aucune réplique possible sur la dernière volonté).  S'il réussit à anéantir son dernier adversaire sur la dernière volonté le joueur gagne la partie.
 
 
