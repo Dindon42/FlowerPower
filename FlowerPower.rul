@@ -63,16 +63,16 @@ Zone de jeu typique à deux joueurs:
 
 
 Rôle des cartes en main:
-Coeur: Engrais (+ 1 petale sur une fleur (n'importe où sur la fleur, pas nécessairement sur le dessus; sa propre fleur ou celle de l'ennemi, le chiffre influence la puissance du pétale, peut être ajouté à une POWER FLOWER.)
+Coeur: Engrais (+1 petale sur une fleur (n'importe où sur la fleur, pas nécessairement sur le dessus; sa propre fleur ou celle de l'ennemi, le chiffre influence la puissance du pétale, peut être ajouté à une POWER FLOWER.)
 
 Trèfle: Espion (droit d'espionner soit une fleur entière (sa propre fleur ou celle de l'adversaire) ou soit la main d'un autre joueur) On met la carte au GraveRyard une fois utilisée.
 
 Carreau: POWER FLOWER (Transforme une fleur en super-fleur, on déplace la fleur dans la zone POWER FLOWER, tous les pétales sont retournés, puis, à l'attaque comme à la défense, on choisit quel est le pétale combattant au moment de la résolution.)  On met la carte au GraveRyard une fois utilisée.
 
-Pique: Poison (détruit instantanément un pétale de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix.)  On met la carte au GraveRyard une fois utilisée.
+Pique: Poison (détruit instantanément un pétale de force inférieure ou égale à la valeur du poison, aucune parade possible.  Dans le cas d'une fleur régulière ou d'une "Power Flower" celui qui utilise le poison détruit le pétale de son choix. Peut cibler sa propre fleur.)  On met la carte au GraveRyard une fois utilisée.
 
-Joker Rouge: N'importe quelle carte rouge.
-Joker Noir: N'importe quelle carte noire.
+Joker Rouge: Cœur ou Carreau.
+Joker Noir: Pique ou Trèfle.
 
 
 Ordre du tour:
@@ -93,7 +93,7 @@ Déroulement du jeu:
 
 
 Déclaration d'une attaque:
-Lors d'une attaque, le joueur choisit quelle fleur attaque et quelle fleur ennemie est attaquée.  Dans le cas de fleurs régulières, les pétales du dessus sont alors tournés face visible (si ils étaient cachés).  C'est une fois l'attaque déclarée que l'action se joue:  les deux joueurs impliqués, dans un ultime espoir de garder leurs fleurs en vie, peuvent utiliser les cartes de leurs mains pour tromper l'ennemi et prouver leur domination.  (les cartes utilisées n'ont pas nécessairement besoin d'influencer la bataille en cours, ils peuvent bousiller ou améliorerles autres fleurs du potager.  Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.  Lorsque les joueurs ne veulent ou ne peuvent plus jouer de cartes de leurs mains, on passe à la résolution de l'attaque.
+Lors d'une attaque, le joueur choisit quelle fleur attaque et quelle fleur ennemie est attaquée.  Dans le cas de fleurs régulières, les pétales du dessus sont alors tournés face visible (si ils étaient cachés).  C'est une fois l'attaque déclarée que l'action se joue:  les deux joueurs impliqués, dans un ultime espoir de garder leurs fleurs en vie, peuvent utiliser les cartes de leurs mains pour tromper l'ennemi et prouver leur domination.  (les cartes utilisées n'ont pas nécessairement besoin d'influencer la bataille en cours, ils peuvent bousiller ou améliorer les autres fleurs du potager.  Si des cartes sont utilisées pour altérer les fleurs combattantes, la bataille n'est pas interrompue.  Lorsque les joueurs ne veulent ou ne peuvent plus jouer de cartes de leurs mains, on passe à la résolution de l'attaque.
 
 
 Résolution de l'attaque:
@@ -117,7 +117,7 @@ Attaques - spécificités:
 
 Actions spéciales:
 -Pioche: Comme unique action du tour, le joueur peut décider de passer son tour pour piocher une carte.  Celui-ci ne peut effectuer aucune attaque ce tour-ci.  Cette action ne peut pas être choisie après avoir échoué une attaque.  Cette action n'est pas disponible au premier tour.  La pioche est limitée à deux tours consécutifs, au troisième, il est impératif de déclarer une attaque.
--Création d'une fleur: Un joueur peut créer une nouvelle fleur avec un minimum de 3 cartes.  Cette fleur sera régulière.  L'ordre des pétales sera choisi par le joueur qui crée la fleur.  Cette action peut être jouée en réponse à une attaque d'un adversaire.
+-Création d'une fleur: Un joueur peut créer une nouvelle fleur avec un minimum de 3 cartes.  Cette fleur sera régulière.  L'ordre des pétales sera choisi par le joueur qui crée la fleur. Un joueur peut également créer une super-fleur avec 4 cartes (1 de chaque sortie).  Cette action peut être jouée en réponse à une attaque d'un adversaire.
 -Suicide tactique: Un joueur peut décider de se suicider en utilisant sa dernière fleur à un pétale pour attaquer une fleur à un pétale ennemi.  Advenant d'une attaque réussie, le joueur se retrouve avec 0 cartes dans son potager, mais peut piocher une carte pour jouer sa dernière volonté (aucune réplique possible sur la dernière volonté).  S'il réussit à anéantir son dernier adversaire sur la dernière volonté le joueur gagne la partie.
 
 
